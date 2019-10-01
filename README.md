@@ -1,7 +1,7 @@
-# Mineração de Textos de Agricultura de Precisão
+# Mineração de Textos
 
-Análise de textos de artigos acadẽmicos publicados no IEEE com as palavras-chaves da temática 
-agricultura de precisão, precision agriculture em inglês.
+Análise de textos de artigos acadẽmicos publicados no IEEE
+https://ieeexplore.ieee.org/
 
 Neste repositório estão os arquivos usados na pesquisa assim como seu código de aplicação no Orange Canvas.
 
