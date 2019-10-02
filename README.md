@@ -25,13 +25,13 @@ Neste tutorial não será tratado sobre a instalação das ferramentas
 Anaconda Navigator > Orange Canvas > Open Project. 
 ```
 
-Com este exemplo é possíl ter idéia da etrutura do analizador de palavras. 
+Com este exemplo é possível ter idéia da etrutura do analizador de palavras. 
 
 ## Rodando os testes
 
-Explain how to run the automated tests for this system
+Crie uma pasta e coloque os artigos renomados como T001, T002, T003
 
-### Parametros ajustados
+### Abrindo arquivos
 
 Explain what these tests test and why
 
