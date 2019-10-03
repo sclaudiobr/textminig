@@ -29,11 +29,11 @@ Com este exemplo é possível ter idéia da etrutura do analizador de palavras.
 
 ## Rodando os testes
 
-Crie uma pasta e coloque os artigos renomados como T001, T002, T003
+Crie uma pasta e coloque os artigos renomados como T01, T02, T03
 
 ### Abrindo arquivos
 
-Explain what these tests test and why
+Open > files...
 
 ```
 Give an example
@@ -41,11 +41,11 @@ Give an example
 
 ### Gerando exemplos
 
-Explain what these tests test and why
+Para gerar seus próprios projetos siga oseguinte roteiro:
 
-```
-Give an example
-```
+```Crie uma pasta, coloque lá os artigos renomeados
+ para siglas
+ ```
 
 ## Deployment
 
@@ -54,26 +54,24 @@ Add additional notes about how to deploy this on a live system
 ## Ferramentas e métodos usados
 
 * [Anaconda](http://www.https://www.anaconda.com/distribution/) - IDE do Anaconda
-* [Orange Canvas](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Orange Canvas](https://orange.org/)
+## Contribuindo
 
-## Contributing
+Por favor leia [CONTRIBUTING.md](https://) para mais detalhes sobre o código de conduta, e os processo para fazer os pull requests.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Versionando
 
-## Versioning
+Nós usamos [SemVer](http://semver.org/) para o versionamento. Para as versões disponíveis, olhe a [tags neste repositório](https://github.com/sclaudiobr/textminig/tags). 
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Autor
 
-## Authors
+* **Claudio Silva** - *Trabalho inicial* - [sclaudiobr](https://github.com/sclaudiobr)
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Veja também a lista de [contribudores](https://github.com/your/project/contribuidores) como participar deste projeto.
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Licença
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este projeto é licenciado por claumaos Veja: [LICENSE.md](LICENSE.md) para mais detalhes
 
 ## Acknowledgments
 
