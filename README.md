@@ -3,6 +3,10 @@
 Análise de textos de artigos acadẽmicos publicados no IEEE
 https://ieeexplore.ieee.org/
 
+```
+Vale ressaltar que  quaisquer uso dos artigos na pasta devem receber suas devidas citações bibliográficas.
+```
+
 Neste repositório estão os arquivos usados na pesquisa assim como seu código de aplicação no Orange Canvas.
 
 ## Vamos começar
@@ -34,10 +38,6 @@ Crie uma pasta e coloque os artigos renomados como T01, T02, T03
 ### Abrindo arquivos
 
 Open > files...
-
-```
-Give an example
-```
 
 ### Gerando exemplos
 
@@ -73,8 +73,7 @@ Veja também a lista de [contribudores](https://github.com/your/project/contribu
 
 Este projeto é licenciado por claumaos Veja: [LICENSE.md](LICENSE.md) para mais detalhes
 
-## Acknowledgments
+## Agradecimentos
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* SANDECO
+* Luiza Venturine
