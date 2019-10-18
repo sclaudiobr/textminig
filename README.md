@@ -47,9 +47,10 @@ Para gerar seus próprios projetos siga oseguinte roteiro:
  para siglas
  ```
 
-## Deployment
+## Desenvolvimento
 
-Add additional notes about how to deploy this on a live system
+A execussão do sistema obedece uma ordem de operações que consistem em carregar os arquivos, selecionar dados,
+verificar a árvore de palavras, listar as palavras de exclusão, gerar núvem de palavras.
 
 ## Ferramentas e métodos usados
 
@@ -75,5 +76,4 @@ Este projeto é licenciado por claumaos Veja: [LICENSE.md](LICENSE.md) para mais
 
 ## Agradecimentos
 
-* SANDECO
-* Luiza Venturine
+* CANAL YOUTUBE SANDECO
