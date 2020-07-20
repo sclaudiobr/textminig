@@ -1,6 +1,6 @@
 # Mineração de Textos
 
-Análise de textos de artigos acadẽmicos publicados no IEEE
+Análise de textos de artigos acadêmicos publicados no IEEE
 https://ieeexplore.ieee.org/
 
 ```
